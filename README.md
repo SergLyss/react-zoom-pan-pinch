@@ -63,9 +63,9 @@ Do you like this library? Try out other projects
 ## Installation
 
 ```bash
-npm install --save react-zoom-pan-pinch
+npm install --save react-zoom-pan-pinch-sr
 or
-yarn add react-zoom-pan-pinch
+yarn add react-zoom-pan-pinch-sr
 ```
 
 ## Examples
@@ -73,7 +73,7 @@ yarn add react-zoom-pan-pinch
 ```jsx
 import React, { Component } from "react";
 
-import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
+import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch-sr";
 
 const Example = () => {
   return (
